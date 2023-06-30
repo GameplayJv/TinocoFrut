@@ -1,5 +1,5 @@
 # Nome dos itegrantes:
-Daniel Pereira, Daniel Cavalcanti, João Victor Do Nascimento Ribeiro, Flávio França
+Daniel Pereira, Daniel Cavalcanti, João Victor Do Nascimento Ribeiro e Flávio França
 
 # TinocoFrut 
 A TinocoFrut é uma API desenvolvida em Django, projetada para gerenciar o cadastro de usuários, produtos e estoque de uma empresa fictícia chamada TinocoFrut. Este documento fornece informações sobre o projeto e explica como instalar as dependências necessárias para executar a API em seu ambiente local.
