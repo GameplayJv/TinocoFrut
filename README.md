@@ -1,5 +1,5 @@
-# TinocoFrut API
-A TinocoFrut API é uma API desenvolvida em Django, projetada para gerenciar o cadastro de usuários, produtos e estoque de uma empresa fictícia chamada TinocoFrut. Este documento fornece informações sobre o projeto e explica como instalar as dependências necessárias para executar a API em seu ambiente local.
+# TinocoFrut 
+A TinocoFrut é uma API desenvolvida em Django, projetada para gerenciar o cadastro de usuários, produtos e estoque de uma empresa fictícia chamada TinocoFrut. Este documento fornece informações sobre o projeto e explica como instalar as dependências necessárias para executar a API em seu ambiente local.
 
 # Funcionalidades Principais
 A TinocoFrut API oferece as seguintes funcionalidades principais:
